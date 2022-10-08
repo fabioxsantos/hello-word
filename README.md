@@ -1,2 +1,2 @@
 # hello-world
-Meu primeiro repositorio vervionado publico
+Meu primeiro repositorio vercionado publico
